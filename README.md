@@ -40,7 +40,7 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/56c42dec-97ce-4189-a4a0-f04826918e3c)
+![Screenshot (36)](https://github.com/user-attachments/assets/0334a5b5-8717-4630-8d0b-5b9c9d8670fa)
 
 
 ## RESULT:
